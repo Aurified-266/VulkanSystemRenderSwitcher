@@ -1,9 +1,9 @@
 # VulkanSystemRendererSwitcher
 ### A fork of [HyperVulkan Switcher](https://www.magiskmodule.com/hypervulkan-switcher/) by @srmatdroid
-
+### Made for Android Devices like the Retroid Pocket 5
 🚀 Summary of Transformation
 
-Took a risky, bloated, Spanish-language script filled with unfortunately false claims; and turned it into a safe, English language translated, focused utility that strictly manages the Android System UI renderer.
+Took a risky, bloated, Spanish-language script, filled with false claims; and turned it into a safe, English language translated, focused utility that strictly manages the Android System UI renderer.
 
 1. 🗑️ Removed Dangerous & Unnecessary Features
 Stripped out everything that wasn't directly related to switching the System UI renderer to prevent crashes, bootloops, and security issues.
