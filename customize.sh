@@ -1,7 +1,7 @@
 #!/sbin/sh
 ##########################################################################################
 #
-# VulkanSystemRenderSwitcher - Magisk Module Installer Script
+# VulkanSystemRendererSwitcher - Magisk Module Installer Script
 # Device: Universal (Snapdragon / MediaTek / Exynos)
 # Author: Forked & Cleaned by User Aurified.Dev
 # Original Author: @srmatdroid
@@ -28,7 +28,7 @@ REPLACE="
 print_modname() {
   ui_print " "
   ui_print "  ╔═══════════════════════════════════════════════════════════════╗"
-  ui_print "  ║              VulkanSystemRenderSwitcher vAU1   stable         ║"
+  ui_print "  ║              VulkanSystemRendererSwitcher vAU1   stable       ║"
   ui_print "  ║          System UI Optimization for HyperOS / MIUI / AOSP     ║"
   ui_print "  ║                                                               ║"
   ui_print "  ║                       Device: Universal                       ║"
@@ -171,7 +171,7 @@ post_install() {
   ui_print "  ╔═══════════════════════════════════════════════════════════════╗"
   ui_print "  ║                        🎉 SUCCESS! 🎉                         ║"
   ui_print "  ║                                                               ║"
-  ui_print "  ║     VulkanSystemRenderSwitcher vAU1 installed successfully    ║"
+  ui_print "  ║     VulkanSystemRendererSwitcher vAU1 installed successfully  ║"
   ui_print "  ║                                                               ║"
   ui_print "  ║    🔄 Reboot your device to activate the module               ║"
   ui_print "  ║                                                               ║"
