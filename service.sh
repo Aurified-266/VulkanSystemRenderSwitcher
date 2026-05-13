@@ -3,9 +3,9 @@
 MODDIR="${0%/*}"
 #!/system/bin/sh
 # ╔══════════════════════════════════════════════════════════════╗
-# ║         VulkanSystemRenderSwitcher (vAU1 stable)              ║
-# ║      Optimization Module for HyperOS / MIUI / AOSP          ║
-# ║      Device: universal                                      ║
+# ║         VulkanSystemRendererSwitcher (vAU1 stable)           ║
+# ║      Optimization Module for HyperOS / MIUI / AOSP           ║
+# ║      Device: universal                                       ║
 # ╚══════════════════════════════════════════════════════════════╝
 
 # ================================================================
