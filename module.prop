@@ -1,12 +1,12 @@
 ##########################################################################################
-# VulkanSystemRenderSwitcher - Magisk Module Properties
+# VulkanSystemRendererSwitcher - Magisk Module Properties
 # Tested Device: Retroid Pocket 5
 # Author: @Aurified.Dev GPLv3 (Cleaned & Translated)
 ##########################################################################################
 # Unique Module ID
-id=vulkan.system
+id=VSRSvAU1
 # Visible Name in Magisk Manager
-name=💰VulkanSystemRenderSwitcher
+name=💰VulkanSystemRendererSwitcher
 # Module Version (for display)
 version=vAU1
 # Version Code (for comparisons, integer)
@@ -14,4 +14,4 @@ versionCode=21
 # Module Author
 author=Aurified.Dev
 # Detailed Description
-description=💰VulkanSystemRenderSwitcher vAU1 - Advanced optimization for HyperOS/MIUI/AOSP • Auto-switcher System UI (Vulkan/OpenGL) • Performance props • Universal (Snapdragon/MediaTek/Exynos). NOTE: Does not convert games to Vulkan.
+description=💰VulkanSystemRendererSwitcher vAU1 - Advanced optimization for HyperOS/MIUI/AOSP • Auto-switcher System UI (Vulkan/OpenGL) • Performance props • Universal (Snapdragon/MediaTek/Exynos). NOTE: Does not convert games to Vulkan.
