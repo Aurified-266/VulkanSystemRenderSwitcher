@@ -1,4 +1,3 @@
-# VulkanSystemRendererSwitcher
 ### A fork of [HyperVulkan Switcher](https://www.magiskmodule.com/hypervulkan-switcher/) by @srmatdroid
 ### Made for Android Devices like the Retroid Pocket 5
 🚀 Summary of Transformation
