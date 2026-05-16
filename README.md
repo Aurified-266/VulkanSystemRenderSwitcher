@@ -10,8 +10,8 @@
 
 #### `Took a risky, bloated, Spanish-language script, filled with false claims; and turned it into a safe, English language translated, focused utility that strictly manages the Android System UI renderer.`
 
-1. 🗑️ Removed Dangerous & Unnecessary Features
-Stripped out everything that wasn't directly related to switching the System UI renderer to prevent crashes, bootloops, and security issues.
+**1. 🗑️ Removed Dangerous & Unnecessary Features
+Stripped out everything that wasn't directly related to switching the System UI renderer to prevent crashes, bootloops, and security issues.**
 
 | Feature Removed	| Why It Was Removed |
 | :-------------- | :----------------- |
@@ -23,8 +23,8 @@ Stripped out everything that wasn't directly related to switching the System UI 
 | Unity Scheduler Tweaks	| Too specific. Better handled by the OS or game-specific settings. |
 | Spanish Language |	Translated all comments, logs, and UI messages to English for clarity. |
 
-2. 🛡️ Enhanced Security & Stability
-Added safeguards to ensure the module doesn't break your device if something is missing.
+**2. 🛡️ Enhanced Security & Stability
+Added safeguards to ensure the module doesn't break your device if something is missing.**
 
 **Robust Driver Verification: Added a new check_vulkan_support() function that:**
 - Verifies ro.hardware.vulkan is set to turnip.
@@ -34,8 +34,8 @@ Added safeguards to ensure the module doesn't break your device if something is 
 - Safe Property Setting: Ensured set_prop uses resetprop (Magisk) when available, falling back to setprop safely.
 - Process Priority: Added renice to lower the script's CPU priority so it doesn't lag the system.
 
-3. 🎯 Clarified Functionality (The "Truth")
-Corrected the misleading claims in the original module.
+**3. 🎯 Clarified Functionality (The "Truth")
+Corrected the misleading claims in the original module.**
 
 **`Old Claim: "Forcibly switches OpenGL ES programs to use Vulkan."` - *(False)***
 
@@ -45,7 +45,7 @@ Corrected the misleading claims in the original module.
 
 *Updated Descriptions: All module.prop and customize.sh text now accurately reflects this limitation.*
 
-4. 📝 Code Cleanup & Optimization
+**4. 📝 Code Cleanup & Optimization**
 
 - Translated Comments: All comments in customize.sh, post-fs-data.sh, and service.sh are now in English.
 - Streamlined Logic: Removed redundant ui_print boxes and simplified the installation flow.
@@ -54,7 +54,7 @@ Corrected the misleading claims in the original module.
 - `Emulators: Eden, Eden Nightly, Kenji NX, x1Box, Azahar, Vita3k, Aethersx2, RetroArch, Citra, Yuzu, Skyline, PPSSPP, Dolphin, GameHub Lite, etc.`
 - `Frontends: EmulationStation_DE`
 
-6. 🔄 Integration with Turnip Driver
+**6. 🔄 Integration with Turnip Driver**
 
 **The module is now designed to work seamlessly with [My Turnip Driver Module](https://github.com/Aurified-266/Mesa-Turnip_CI-CD_Linux-Debian):**
 
