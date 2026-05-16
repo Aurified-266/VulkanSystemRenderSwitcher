@@ -1,5 +1,11 @@
-### A fork of [HyperVulkan Switcher](https://www.magiskmodule.com/hypervulkan-switcher/) by @srmatdroid
-### Made for Android Devices like the Retroid Pocket 5
+>## A fork of [HyperVulkan Switcher](https://www.magiskmodule.com/hypervulkan-switcher/) by @srmatdroid
+>### Made for Android Devices like the Retroid Pocket 5
+
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+![Platform](https://img.shields.io/badge/Platform-Android%2013%2B-green.svg)
+![Device](https://img.shields.io/badge/Device-Retroid%20Pocket%205-orange.svg)
+![Status](https://img.shields.io/badge/Status-Stable-success.svg)
+
 🚀 Summary of Transformation
 
 Took a risky, bloated, Spanish-language script, filled with false claims; and turned it into a safe, English language translated, focused utility that strictly manages the Android System UI renderer.
