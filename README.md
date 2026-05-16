@@ -1,4 +1,5 @@
-# A fork of [HyperVulkan Switcher](https://www.magiskmodule.com/hypervulkan-switcher/) by @srmatdroid
+# VulkanSystemRendererSwitcher - VSRS
+### **A fork of [HyperVulkan Switcher](https://www.magiskmodule.com/hypervulkan-switcher/) by @srmatdroid**
 >## *Made for Android Devices like the Retroid Pocket 5*
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
