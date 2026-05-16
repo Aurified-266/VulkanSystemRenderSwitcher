@@ -1,4 +1,4 @@
-# VulkanSystemRendererSwitcher - `VSRS`
+# VulkanSystemRendererSwitcher / `VSRS`
 ### **A fork of [HyperVulkan Switcher](https://www.magiskmodule.com/hypervulkan-switcher/) by @srmatdroid**
 >## *Made for Android Devices like the Retroid Pocket 5*
 
