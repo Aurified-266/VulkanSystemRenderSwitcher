@@ -56,7 +56,7 @@ Corrected the misleading claims in the original module.**
 - `Emulators: Eden, Eden Nightly, Kenji NX, x1Box, Azahar, Vita3k, Aethersx2, RetroArch, Citra, Yuzu, Skyline, PPSSPP, Dolphin, GameHub Lite, etc.`
 - `Frontends: EmulationStation_DE`
 
-**6. 🔄 Integration with Turnip Driver**
+**5. 🔄 Integration with Turnip Driver**
 
 **The module is now designed to work seamlessly with [My Turnip Driver Module](https://github.com/Aurified-266/Mesa-Turnip_CI-CD_Linux-Debian):**
 
